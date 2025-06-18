@@ -71,7 +71,7 @@ The goal of this project is to analyze bike sales data and uncover insights into
 
 ---
 
-### 🔗 D[ashboard Lin](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)[k](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)
+### 🔗 [Dashboard Lin](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)[k](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)
 
 [👉 ](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)[View the Bike Sales Dashboard on Tableau Public](https://public.tableau.com/app/profile/justice.sosu/viz/BikeSales_17498547885450/BikeSalesDashboard)
 
