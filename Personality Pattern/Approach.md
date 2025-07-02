@@ -71,8 +71,9 @@ The dataset is fairly balanced with a **51.4% Extrovert** and **48.6% Introvert*
 - **Introverts are not necessarily offline** — they just engage differently, often passively.
 - **Post frequency doesn’t tell the whole story**: introverts might scroll, read, or observe without interacting.
 - **Extroverts are more visibly active** — from posting more often to attending events and maintaining larger social circles.
+- **Social Behavior**: Extroverts attend more social events, go outside more, and have larger friend groups.
+- **Alone Time**: Introverts consistently spend more time alone — a trait strongly reflected in the data.
 - These trends align with general personality behavior theories and offer a clear visual breakdown of social differences.
-
 ---
 
 ## ✅ Summary
